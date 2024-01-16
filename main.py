@@ -1,3 +1,5 @@
 import streamlit as st 
-st.write("my name is lauren foster")
-print("I am learning to print a message")
+import pandas as pd 
+import numpy as np
+st.title('practice app')
+streamlit run main.py
