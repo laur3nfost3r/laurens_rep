@@ -6,13 +6,11 @@ class CreateCircle(Scene):
         circle = Circle()  # create a circle
         circle.set_fill(PINK, opacity=0.5)  # set the color and transparency
 
-        triangle = Triangle()
-        circle.set_fill(BLUE, opacity=0.5)
+        line = Line()
         
-        self.play(Create(circle))  # show the circle on screen
+        self.play(Create(line))  # show the circle on screen
         self.wait(1)
-        self.remove(circle)
-        self.play(Create(triangle))
+        self.play(ReplacementTransform(line, circle))
 
 
 
