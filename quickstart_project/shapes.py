@@ -26,8 +26,8 @@ class SquareToCircle(Scene):
         self.play(FadeOut(square))  # fade out animation
 
 c = Shapes()
-d = SquareToCircle
-d.render
+d = SquareToCircle()
+d.render()
 c.render()
 st.video("media/videos/1080p60/Shapes.mp4")
 
