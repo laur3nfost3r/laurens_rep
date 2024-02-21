@@ -1,0 +1,68 @@
+[
+    {
+        "name": "first section",
+        "type": "default.normal",
+        "video": "/workspaces/laurens_rep/quickstart_project/media/videos/3d_adventure/1080p60/CreateCircle.mp4_0000.mp4",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "avg_frame_rate": "60/1",
+        "duration": "3.000000",
+        "nb_frames": "180"
+    },
+    {
+        "name": "second section",
+        "type": "default.normal",
+        "video": "/workspaces/laurens_rep/quickstart_project/media/videos/3d_adventure/1080p60/CreateCircle.mp4_0001.mp4",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "avg_frame_rate": "60/1",
+        "duration": "3.000000",
+        "nb_frames": "180"
+    },
+    {
+        "name": "third section",
+        "type": "default.normal",
+        "video": "/workspaces/laurens_rep/quickstart_project/media/videos/3d_adventure/1080p60/CreateCircle.mp4_0002.mp4",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "avg_frame_rate": "60/1",
+        "duration": "1.000000",
+        "nb_frames": "60"
+    },
+    {
+        "name": "first section",
+        "type": "default.normal",
+        "video": "/workspaces/laurens_rep/quickstart_project/media/videos/3d_adventure/1080p60/CreateCircle.mp4_0003.mp4",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "avg_frame_rate": "60/1",
+        "duration": "3.000000",
+        "nb_frames": "180"
+    },
+    {
+        "name": "second section",
+        "type": "default.normal",
+        "video": "/workspaces/laurens_rep/quickstart_project/media/videos/3d_adventure/1080p60/CreateCircle.mp4_0004.mp4",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "avg_frame_rate": "60/1",
+        "duration": "3.000000",
+        "nb_frames": "180"
+    },
+    {
+        "name": "third section",
+        "type": "default.normal",
+        "video": "/workspaces/laurens_rep/quickstart_project/media/videos/3d_adventure/1080p60/CreateCircle.mp4_0005.mp4",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "avg_frame_rate": "60/1",
+        "duration": "1.000000",
+        "nb_frames": "60"
+    }
+]

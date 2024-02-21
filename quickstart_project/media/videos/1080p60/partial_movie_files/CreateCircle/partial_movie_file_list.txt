@@ -1,8 +1,2 @@
 # This file is used internally by FFMPEG.
-file 'file:/workspaces/laurens_rep/quickstart_project/media/videos/1080p60/partial_movie_files/CreateCircle/462517863_4205520711_1042159642.mp4'
-file 'file:/workspaces/laurens_rep/quickstart_project/media/videos/1080p60/partial_movie_files/CreateCircle/1776149149_1048562857_1287081221.mp4'
-file 'file:/workspaces/laurens_rep/quickstart_project/media/videos/1080p60/partial_movie_files/CreateCircle/1776149149_4205520711_3515408983.mp4'
-file 'file:/workspaces/laurens_rep/quickstart_project/media/videos/1080p60/partial_movie_files/CreateCircle/665341078_355797862_3760733496.mp4'
-file 'file:/workspaces/laurens_rep/quickstart_project/media/videos/1080p60/partial_movie_files/CreateCircle/4073964213_1473323339_4210339045.mp4'
-file 'file:/workspaces/laurens_rep/quickstart_project/media/videos/1080p60/partial_movie_files/CreateCircle/4073964213_4205520711_3253897497.mp4'
-file 'file:/workspaces/laurens_rep/quickstart_project/media/videos/1080p60/partial_movie_files/CreateCircle/4073964213_1894890713_3443236301.mp4'
+file 'file:/workspaces/laurens_rep/quickstart_project/media/videos/1080p60/partial_movie_files/CreateCircle/4073964213_2373705254_3792398879.mp4'
