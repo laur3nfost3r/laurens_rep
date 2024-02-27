@@ -1,0 +1,13 @@
+[
+    {
+        "name": "autocreated",
+        "type": "default.normal",
+        "video": "/workspaces/laurens_rep/quickstart_project/media/videos/1080p60/CreateCircle1.mp4_0000.mp4",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "avg_frame_rate": "60/1",
+        "duration": "3.300000",
+        "nb_frames": "198"
+    }
+]

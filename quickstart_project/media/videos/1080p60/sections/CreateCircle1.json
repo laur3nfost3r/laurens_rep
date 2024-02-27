@@ -1,0 +1,13 @@
+[
+    {
+        "name": "autocreated",
+        "type": "default.normal",
+        "video": "CreateCircle1_0000.mp4",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "avg_frame_rate": "60/1",
+        "duration": "2.100000",
+        "nb_frames": "126"
+    }
+]
